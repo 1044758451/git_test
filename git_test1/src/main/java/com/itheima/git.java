@@ -7,5 +7,9 @@ public class git {
         System.out.println("==============[分割线]===============");
         System.out.println("==============[分割线]===============");
 
+
+    }
+    void test(){
+        System.out.println("true = " + true);
     }
 }
